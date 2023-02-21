@@ -26,6 +26,12 @@
         /* 要素の浮遊化の解除 */
         width: 150px;
     }
+
+    .left { 
+        float: none;
+        /* 要素の浮遊化の解除 */
+        width: 150px;
+    }
     
     .footer {
         width: 150px;
